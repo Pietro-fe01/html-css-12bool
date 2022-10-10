@@ -1,0 +1,12 @@
+@import url("12-bool-layout.css");
+@import url("12-bool-layout-responsive.css");
+
+/*-----------------
+    RESET
+------------------*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+

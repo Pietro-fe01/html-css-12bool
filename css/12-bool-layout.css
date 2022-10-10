@@ -1,0 +1,13 @@
+/*-----------------
+    COMMON
+------------------*/
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
