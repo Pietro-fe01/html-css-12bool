@@ -25,3 +25,11 @@
     text-align: center;
     padding: 15px 14px;
 }
+
+section:nth-child(2){
+    margin-top: 25px;
+}
+
+section:nth-child(2) .box{
+    height: 50.4px;
+}
