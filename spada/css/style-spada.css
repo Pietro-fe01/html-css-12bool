@@ -1,0 +1,72 @@
+@import url("12-bool-layout-spada.css");
+@import url("12-bool-layout-responsive-spada.css");
+
+/*-----------------
+    RESET
+------------------*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+main {
+    position: relative;
+    top: 100px;
+    left: -170px;
+}
+
+.box{
+    height: 50px;
+}
+
+.no-wrap{
+    flex-wrap: nowrap;
+}
+
+.dark-green{
+    background-color: #0c7556;
+}
+
+.green-manico{
+    background-color: #16514d;
+}
+
+.green-manico-lighter{
+    background-color: #12786a;
+}
+
+.light-blue{
+    background-color: #06ded3;
+}
+
+.darker-blue{
+    background-color: #0bb4ad;
+}
+
+.darker-brown{
+    background-color: #733617;
+}
+
+.lighter-brown{
+    background-color: #9c4517;
+}
+
+.orange{
+    background-color: #c35518;
+}
+
+.shadow{
+    width: 650px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 50%;
+    position: absolute;
+    bottom: 10px;
+    left:630px;
+}
