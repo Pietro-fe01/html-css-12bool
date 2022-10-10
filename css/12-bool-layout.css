@@ -13,6 +13,7 @@
 
 [class*="col-"] {
     flex: 0 0 auto;
+    /*'flex-grow' 'flex-shrink' 'flex-basis' */
 }
 
 .col{

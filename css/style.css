@@ -10,6 +10,14 @@
     padding: 0;
 }
 
+body{
+    background-color: black;
+}
+
+main{
+    background-color: white;
+}
+
 .box{
     background-color: #006cfa;
     border: 1px solid white;
@@ -26,10 +34,15 @@
     padding: 15px 14px;
 }
 
-section:nth-child(2){
-    margin-top: 25px;
+#es-1-pt-2{
+    margin: 25px 0;
 }
 
-section:nth-child(2) .box{
+#es-1-pt-2 .box,
+#es-2 .box{
     height: 50.4px;
+}
+
+#es-2{
+    padding-bottom: 25px;
 }
