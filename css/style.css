@@ -11,7 +11,17 @@
 }
 
 .box{
-    background-color: blue;
+    background-color: #006cfa;
     border: 1px solid white;
     color: white;
+    text-align: center;
+    padding: 15px 25px;
+}
+
+.box__nested{
+    background-color: #00e165;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    padding: 15px 14px;
 }
